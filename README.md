@@ -1,4 +1,4 @@
 # myPrj_het10
-this is my repo for my personal projects.
+This is my Repository for my personal projects.
 <br>
 Developer - Het S. Patel
