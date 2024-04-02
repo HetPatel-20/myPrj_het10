@@ -1,4 +1,4 @@
 # myPrj_het10
 This is my Repository for my personal projects.
 <br>
-Developer - Het S. Patel
+Developer - Het S. Patel(Full Stack Web Developer)
